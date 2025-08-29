@@ -19,7 +19,7 @@ Pods/
 Podfile.lock
 
 # Xcode workspace (可选，如果你只想提交 .xcodeproj)
-# *.xcworkspace
+*.xcworkspace
 
 # Carthage
 Carthage/Build/
